@@ -6,7 +6,9 @@
 
 <del>When we want to boast about our achievements to others, we can use this as a tool, haha.</del>
 
-### Installation
+**As there are name collisions, double check before using the results.**
+
+### Quich Start
 
 1. Clone this repository to your local machine:
    ```bash
